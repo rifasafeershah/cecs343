@@ -1,0 +1,45 @@
+1. Software engineering umbrella activities are only applied during the initial phases of software development projects.
+  a. True
+  b. False (answer)
+  
+2.  Which of these are the 5 generic software engineering framework activities?
+  a. communication, planning modeling, construction, deployment (answer)
+  b. communication, risk management, measurement, production, reviewing
+  c. analysis, designing, programming, debugging, maintainence
+  d. analysis, planning, designing, programming, testing
+ 
+3. Planning ahead for software reuse reduces the cost and increases the value of the systems into which they are incorporated.
+  a. True (answer)
+  b. False
+  
+4. The essence of software engineering practice might be described as understand the problem, plan a solution, carry out the plan, and examine the result for accuracy.
+  a. True (answer)
+  b. False
+  
+5. In agile process models the only deliverable work product is the working program.
+  a. True
+  b. False (answer)
+  
+6. Most software development projects are initiated to try to meet some business need.
+  a. True (answer)
+  b. False
+
+7. Software is a product and can be manufactured using the same technologies used for other engineering artifacts.
+  a. True
+  b. False (answer)
+  
+8. Software deteriorates rather than wears out because
+  a. Software suffers from exposure to hostile environments
+  b. Defects are more likely to arise after software has been used often
+  c. Multiple change requests introduce errors in component interactions (answer)
+  d. Software spare parts become harder to order
+  
+9. WepApps are a mixture of print publishing and software development, making their development outside the realm of software engineering practice.
+  a. True
+  b. False (answer)
+  
+10. Which of the items listed below is not one of the software engineering layers?
+  a. Process
+  b. Manufacturing (answer)
+  c. Methods
+  d. Tools
