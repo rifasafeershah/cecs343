@@ -1,0 +1,12 @@
+CECS 343
+Spring 2020
+Assignment 1
+20 points
+Due: 1/29
+Develop your own answers to the following five questions:
+Why does it take so long for software to get software finished?
+Why are development cost so high?
+Why can't we find all errors before we give the software to our customers?
+Why do we spend to much and effort maintaining existing programs?
+Why do we continue to have difficulty in measuring progress as software is being developed and maintained?
+Discuss them with your fellow students.
