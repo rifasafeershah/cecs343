@@ -1,0 +1,8 @@
+CECS 343
+Spring 2020
+Assignment 2
+20 points
+Due: 2/3
+1.  Many modern applications change frequently before they are presented to the end user and then after the first version has been put in use. Suggest a few ways to build software to stop deterioration due to change.
+2. Discuss the differences among the various process flow described in section 3.1. Identify the types of problems that might be applicable to each of the generic flows described?
+3. Define a task set for communication activity: A task set would define the actual work to be done to accomplish the objectives of a software engineering action 
