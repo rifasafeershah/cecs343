@@ -1,0 +1,17 @@
+CECS 343
+Project 
+ATM System Design
+
+1. Requirements Statement Document    -  Due date: Wed 3/4
+     Requirements Specifications pdf word
+     
+2. Use Case and Scenarios -  Due date: Wed 3/4
+    Building functional Model - Use case   pdf word
+    NonFunctional Requirements  pdf word
+
+3. Class Diagram - Due date: Wed 3/4
+    You need to document the methodologies on how you identify the classes and their relationship.
+    Finding classes and objects   pdf word
+    Filling out object models pdf word
+4.  Activity Diagram - Due date: Mon 3/9
+      Creating activity diagram  pdf  word
