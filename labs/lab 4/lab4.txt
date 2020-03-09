@@ -1,0 +1,14 @@
+CECS 343
+Spring 2020
+Assignment 4
+20 points
+Due:  2/17
+1. Create a Use case diagram for an ATM machine. Cash withdraw,  and  deposit funds use cases involve Bank Customers. 
+2. Develop two  use cases for the Bank customer.
+Use case name
+Summary
+Actor
+Precondition
+Description (Basic flows of events)
+Alternative flows
+Postcondition
