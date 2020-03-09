@@ -1,0 +1,11 @@
+CECS 343
+Spring 2020
+Assignment 3
+20 points
+Due:  2/5
+1. Provide three examples of software projects that are would be amenable  to the waterfall model. Be specific.
+2. Provide three examples of software projects that would be amenable to the prototyping model. Be specific.
+3. Provide three examples of software projects that would be amenable to the incremental model. Be specific.
+4. What are the process adaptions are required if the prototype will evolve into a delivery system or product?
+5. As you move outward along the spiral process flow, what can you say about the software that is being developed or maintained?
+6. The concurrent process model defines "states".  Describe what these states represent in you own words, and then indicate how they come into play with  the current process model.
